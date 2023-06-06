@@ -53,7 +53,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/morphIsmail)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich) -->
 [![Курсы на Udemy](https://img.shields.io/badge/-Udemy-333?style=for-the-badge&logo=Udemy&logoColor=fff)](https://www.udemy.com/user/useinov-ismail-asanovich/)
-[|[GitHub](https;//img.shields.io/badge/-Мой GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/BondarKirill)
+[![GitHub](https;//img.shields.io/badge/-Мой GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/BondarKirill)
 <!--
 **BondarKirill/BondarKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
