@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Всем привет 👋
 
 <!--[![ITDoctor](https://github.com/morphIsmail/morphIsmail/blob/main/assets/header.jpg)](https://www.youtube.com/@user-bb3zo5xx3y/featured)-->
 
@@ -18,7 +18,6 @@
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
-<!--![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)-->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
@@ -26,12 +25,13 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
-<!--![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)-->
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
+<!--![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)-->
+<!--![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)-->
 <!--![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)-->
 <!--![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)-->
 <!--![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)-->
-![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphIsmail&layout=compact&theme=dark)-->
 
@@ -43,8 +43,9 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-333?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@user-bb3zo5xx3y/featured)
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/YeLlow71)
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/yellow0w)
-<!--[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich)-->
 [![GitHub](https://img.shields.io/badge/-Мой_GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/BondarKirill)
+<!--[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich)-->
+
 
 <!--
 **BondarKirill/BondarKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
