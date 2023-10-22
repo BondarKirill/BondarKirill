@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
-![Figma](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 <!--![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)-->
 <!--![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)-->
