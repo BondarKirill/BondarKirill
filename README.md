@@ -5,7 +5,7 @@
 ## Автор канала
 Меня зовут **Кирилл Бондарь**, я занимаюсь веб-разработкой с 2021 года.
 
-Обучаюсь языкам HTML, CSS, JavaScript, PHP, работе с препроцессорами, сборщиками, библиотеками, фреймворками, системой контроля версий Git, а также многому другому из мира веб-технологий. 
+Обучаюсь языкам HTML, CSS, JavaScript, работе с препроцессорами, сборщиками, библиотеками, фреймворками, системой контроля версий Git, а также многому другому из мира веб-технологий. 
 
 <!--### Последние видео на канале ITDoctor
 - [#6 Фазы события, Всплытие и Делегирование на JavaScript](https://www.youtube.com/watch?v=prmY04RJb4A)
@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
+![Figma](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 <!--![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)-->
 <!--![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)-->
